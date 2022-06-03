@@ -5,4 +5,5 @@ Além de personalizar uma cobra que come seus commits numa animação 🐍
 Personalize e deixe com sua cara. espero ter ajudado.
 
 Créditos: https://github.com/anuraghazra
-https://github.com/rafaballerini
+
+- https://github.com/rafaballerini
