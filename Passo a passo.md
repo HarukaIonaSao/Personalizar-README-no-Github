@@ -1,5 +1,6 @@
- -  Use de base conforme seus conhecimentos em linguagens e frameworks e busque outras formas de personalizaçao. Olhe o código em Raw para ter acesso ao código base
- - Troque por seu nome de usuário para os stas dea sua conta aparecerem. Busquei inspiração para as outras personalizações em outros perfis, esse é o básico. Divirtam-se!! 
+ -  Esse é um projeto base. Edite  conforme seus conhecimentos em linguagens e frameworks e busque outras formas de personalizaçao. Olhe o código em Raw para ter acesso ao código base
+ - Troque por seu nome de usuário para os stats da sua conta aparecerem. Busquei inspiração para as outras personalizações em outros perfis, esse é o básico.
+ -  Divirtam-se!! 
  
  Olá, eu sou (seu nome),
 <div align="center"><br>
