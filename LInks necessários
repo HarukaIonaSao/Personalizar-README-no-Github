@@ -9,5 +9,5 @@ Link otimizador de gifs e gif maker:https://ezgif.com/optimize/ezgif-3-f3748e941
 
 Se a tag de imagem do Markdown não funcionar digitando direto para adicionar gifs:
 Abra o gif que você baixou (pode ser no ezgif. Pode pegar o link do gif no site gifer e colar no ezgif, editar e salvar no seu computador)
-Depois abra o Issues do seu README e crie um novo issue, nomeie e arraste o gif da sua pasta para lá, espere ele gerar o código. Depois copie o Issue e salve.
+Depois abra o Issues do seu README e crie um novo issue, nomeie e arraste o gif da sua pasta para lá, espere ele gerar o código. Depois copie o código da imagem e cole no seu código(não é necessário salvar  Issue)
 Pode colar no seu README e pronto!
