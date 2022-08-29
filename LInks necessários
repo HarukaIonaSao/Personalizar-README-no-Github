@@ -11,5 +11,6 @@ Se a tag de imagem do Markdown não funcionar digitando direto para adicionar gi
 Abra o gif que você baixou (pode ser no ezgif. Pode pegar o link do gif no site gifer e colar no ezgif, editar e salvar no seu computador)
 
 ![Captura de Tela (4)](https://user-images.githubusercontent.com/95101635/187205604-3d0c0713-4da7-4441-bbe2-c8cefaa89c45.png)
+
 Depois abra o Issues do seu README e crie um novo issue, nomeie e arraste o gif da sua pasta para lá, espere ele gerar o código. Depois copie o código da imagem e cole no seu código(não é necessário salvar  Issue)
 Pode colar no seu README e pronto!
